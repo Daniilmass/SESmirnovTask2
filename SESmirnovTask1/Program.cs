@@ -19,7 +19,7 @@ namespace SESmirnovTask1
             {
                 Console.WriteLine("Number is NOT bigger than 5");
             }
-            Console.ReadKey();
+            Console.WriteLine("BYE");
         }
     }
 }
